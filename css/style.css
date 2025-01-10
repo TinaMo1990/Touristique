@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#menu{
+  width: 30%;
+  display:inline-block;
+  
+}
+#menu img{
+  width: 100%;
+  
+}
+
+#principal{
+  width: 68%;
+  display:inline-block;
+  vertical-align: top;
+  
+}
+#principal img{
+  width: 100%;
+  
+}
+img{
+  Border-radius: 15%;
+}
